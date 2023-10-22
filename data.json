@@ -1,0 +1,29 @@
+{
+    "Project": {
+        "project_test": {
+            "language": "Python",
+            "path": "E:/python/learning-python/python-projects/projectmannager/project_test",
+            "env": "E:/python/learning-python/python-projects/projectmannager/project_test/env/Scripts/activate.bat",
+            "settings": "E:/python/learning-python/python-projects/projectmannager/project_test/setting.json"
+        },
+        "project_test2": {
+            "language": "Python",
+            "path": "E:/python/learning-python/python-projects/projectmannager/project_test",
+            "env": "E:/python/learning-python/python-projects/projectmannager/project_test/env/Scripts/activate.bat",
+            "settings": "E:/python/learning-python/python-projects/projectmannager/project_test/setting.json"
+        },
+        "project_test3": {
+            "language": "Python",
+            "path": "E:/python/learning-python/python-projects/projectmannager/project_test",
+            "env": "E:/python/learning-python/python-projects/projectmannager/project_test/env/Scripts/activate.bat",
+            "settings": "E:/python/learning-python/python-projects/projectmannager/project_test/setting.json"
+        },
+        "project_test4": {
+            "language": "Python",
+            "path": "E:/python/learning-python/python-projects/projectmannager/project_test",
+            "env": "E:/python/learning-python/python-projects/projectmannager/project_test/env/Scripts/activate.bat",
+            "settings": "E:/python/learning-python/python-projects/projectmannager/project_test/setting.json"
+        }
+        
+    }
+}
